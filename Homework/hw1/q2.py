@@ -1,3 +1,6 @@
+#name: Hanshul Bahl
+#netID: hbahl2
+
 from torch._utils import _flatten_dense_tensors, _unflatten_dense_tensors
 import torch
 import torch.distributed as dist
